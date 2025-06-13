@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+.venv/
+env/
+rag/
+
+# Other common exclusions for Python projects
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+/chroma/
+/data/
+.env
