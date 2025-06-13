@@ -12,5 +12,4 @@ __pycache__/
 .Python
 *.egg-info/
 /chroma/
-/data/
 .env
